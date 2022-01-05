@@ -22,7 +22,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ### Installation
 #### Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tonic990/FileSharing)</br>
-<a href="https://youtu.be/LCrkRTMkmzE">
+< a  href = " https://youtu.be/LCrkRTMkmzE " >
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 **Check This Tutorial Video on YouTube for any Help**<br>
@@ -36,9 +36,9 @@ pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
 ````
-
-### Admin Commands
-
+saya
+### Perintah Admin
+saya
 ```
 /start - start the bot or get posts
 
